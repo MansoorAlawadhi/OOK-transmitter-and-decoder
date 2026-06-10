@@ -8,11 +8,15 @@ REQUIRED MATERIALS:
 
 
 
+!\[Alt text](16MhzCarrierOnSDR.png)
+
+
+
 
 
 **How to setup:**
 
-&#x20;• draw your image using the program contained in the folder called "BinaryImageTotextFile" 
+&#x20;• draw your image using the program contained in the folder called "BinaryImageTotextFile"
 
 &#x20;• use right click to draw pixels and left click to delete pixels
 
@@ -50,12 +54,14 @@ to a .wav file
 
 
 
+!\[Alt text](binaryDataWaveform.png)
+
+
+
 **extra information**:
 
 &#x20;• the preamble and postamble contains 8 bits where all bits are on (used as the cropping reference)
- • the transmitter has a bit width of 25ms meaning that it transmits 1000/25= 40bits/second so a 32\*32 image (1024 bits + pre amble and post amble) will take around (imageBitSize+preamble+postamble)/ bits per second
+• the transmitter has a bit width of 25ms meaning that it transmits 1000/25= 40bits/second so a 32\*32 image (1024 bits + pre amble and post amble) will take around (imageBitSize+preamble+postamble)/ bits per second
 
 • the bit width can be reduced for faster data transfer but due to circuit limitations it might not give the expected result due to voltage not ramping fast enough (best signal quality @ 25ms bit width)
-
-
 
