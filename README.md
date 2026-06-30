@@ -60,6 +60,7 @@ to a .wav file
 
 
 **Decoded data & side by side image comparsion**
+![Alt text](outputAndInput.png)
 
 *the left image is the decoded data sent over air*
 
