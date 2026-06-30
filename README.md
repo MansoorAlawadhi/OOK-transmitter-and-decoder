@@ -32,15 +32,15 @@
 
 
 
-once everything is setup you will have the binary image as a text file in the folder directory "BinaryImageToTextFile\\output"
+once everything is setup you will have the binary image as a text file in the folder directory "BinaryImageToTextFile\output"
 
 open the file and copy all of the data inside.
 
 Next open the .ino file in the folder directory "BinaryOutputToMcu" and delete the elements of the Binary data array if there is existing data.
 
-once the array is empty copy all of the data from the binary image text file to the array ONCE.
+once the array is empty copy all of the data from the binary image text file to the array once.
 
-once done plug in your desired micro controller and upload the code then wire the digital write pin to the optocoupler anode(must use a current limiting resistor typically in the range of 220 ohms - 2k) and the micro controller ground hooked up to the optocoupler cathode.
+next plug in your desired micro controller and upload the code then wire the digital write pin to the optocoupler anode(must use a current limiting resistor typically in the range of 220 ohms - 2k) and the micro controller ground hooked up to the optocoupler cathode.
 
 when all of these steps are done turn on the transmitter and Micro controller to begin transmitting data over air and use your SDR to log the data
 
@@ -52,7 +52,7 @@ to a .wav file
 
 &#x20;open the file in the desired audio editing program and align the left side crop to the exact start of the first preamble bit
 
-&#x20;once done save the cropped audio file and include it in the OOKdecoder.py program to see your results (Adjust the threshold variable value to get the proper output)
+&#x20;when done cropping the audio file save it in the same directory as the OOKdecoder.py program, and to see your results adjust the threshold value to get a proper result
 
 
 
