@@ -26,7 +26,7 @@
 
 &#x20;  pressed more than once
 
-&#x20;• on the SDR software set the signal decoding to CW and set the tone frequency to a high value but half the audio sample rate due to sampling limitations, @48000hz, 1250hz tone
+&#x20;• on the SDR software set the signal decoding to CW and set the tone frequency to a high value but half the audio sample rate (Nyquist-shannon sampling theorem), 1250Hz tone used in my setup
 
 
 
