@@ -58,7 +58,7 @@ to a .wav file
 ![Alt text](binaryDataWaveform.png)
 *Audacity*
 
-**Audio data transmission**
+**Audio transmission file playback**
 ![Alt text](audioplayback.MOV)
 
 
