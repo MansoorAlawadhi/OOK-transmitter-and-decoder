@@ -5,6 +5,7 @@ int BytePostambleArray[8] = {1,1,1,1,1,1,1,1};
 
 unsigned long CurrentMicros = 0;
 unsigned long Index = 0;
+unsigned long BitWidth = 25000;//bit width in microseconds 
 bool RunPreAmble = true;
 bool RunPostAmble = false;
 bool RunByteData = false;
@@ -18,7 +19,7 @@ void setup() {
 
 void loop() {
 
-  if(micros() - CurrentMicros >= 25000 && EndTransmission == false){
+  if(micros() - CurrentMicros >= BitWidth && EndTransmission == false){
     CurrentMicros = micros();
 
     if(RunPreAmble){
