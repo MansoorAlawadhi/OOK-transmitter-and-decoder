@@ -1,4 +1,4 @@
-REQUIRED MATERIALS:
+**required materials:**
 
 &#x20;• a software defined radio for signal recording and a software defined radio software
 
