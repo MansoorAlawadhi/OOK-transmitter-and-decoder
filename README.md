@@ -1,6 +1,6 @@
 **required materials:**
 
-&#x20;• a software defined radio for signal recording and a software defined radio software
+&#x20;• a software defined radio and its software (sdr++ in this case)
 
 &#x20;• a microcontroller and a Transmitter circuit
 
