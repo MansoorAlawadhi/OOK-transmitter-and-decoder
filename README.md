@@ -60,7 +60,7 @@ to a .wav file
 *Audacity*
 
 **Audio transmisson playback**
-![Alt text](audioplayback.mov)
+![Alt text](audioplayback.MOV)
 
 
 **Decoded data & side by side image comparsion**
