@@ -58,6 +58,8 @@ to a .wav file
 ![Alt text](binaryDataWaveform.png)
 *Audacity*
 
+![Alt text](audioplayback.MOV)
+
 
 **Decoded data & side by side image comparsion**
 ![Alt text](outputAndInput.png)
