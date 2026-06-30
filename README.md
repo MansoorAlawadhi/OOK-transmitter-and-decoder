@@ -8,7 +8,7 @@ REQUIRED MATERIALS:
 
 
 
-!\[Alt text](16MhzCarrierOnSDR.png)
+![Alt text](16MhzCarrierOnSDR.png)
 
 
 
@@ -54,7 +54,7 @@ to a .wav file
 
 
 
-!\[Alt text](binaryDataWaveform.png)
+![Alt text](binaryDataWaveform.png)
 
 
 
