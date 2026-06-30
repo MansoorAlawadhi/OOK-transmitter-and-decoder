@@ -61,7 +61,7 @@ to a .wav file
 **Audio transmisson playback**
 ![Alt text](AudioTransmissonPlayback.mov)
 
-**Decoded data & side by side output and input image comparsion**
+**Decoded data & side by side image comparsion**
 ![Alt text](outputAndInput.png)
 *the left image is the decoded data sent over air*
 
