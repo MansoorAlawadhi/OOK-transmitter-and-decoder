@@ -13,7 +13,6 @@
 
 
 
-
 **How to setup:**
 
 &#x20;• draw your image using the program contained in the folder called "BinaryImageTotextFile"
