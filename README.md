@@ -30,6 +30,8 @@
 
 
 
+
+
 once everything is setup you will have the binary image as a text file in the folder directory "BinaryImageToTextFile\\output"
 
 open the file and copy all of the data inside.
