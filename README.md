@@ -26,11 +26,9 @@
 
 &#x20;• press space to write data to file(overwrites data to a pre existing file if it exists)
 
-&#x20;• pressing space allows you to only write the image data once in order not to overwrite to a file when space is
+&#x20;• pressing space writes data to a file, this can only be done once as to prevent additional data from being written to a single file
 
-&#x20;  pressed more than once
-
-&#x20;• on the SDR software set the signal decoding to CW and set the tone frequency to the high value but less than or equal to half the audio sample rate(Nyquist-shannon sampling theorem), 1250Hz tone used in my setup
+&#x20;• on the Software Defined Radio software set the signal decoding to CW and set the tone frequency to the high value but less than or equal to half the audio sample rate(Nyquist-shannon sampling theorem), 1250Hz tone used in my setup
 
 
 
@@ -46,7 +44,7 @@ once the array is empty copy all of the data from the binary image text file to 
 
 next plug in your desired micro controller and upload the code then wire the digital write pin to the optocoupler anode(must use a current limiting resistor typically in the range of 220 ohms - 2k) and the micro controller ground hooked up to the optocoupler cathode.
 
-when all of these steps are done turn on the transmitter and Micro controller to begin transmitting data over air and use your SDR to log the data
+when all of these steps are done turn on the transmitter and Micro controller to begin transmitting data over the air and use your Software Defined Radio to log the data
 
 to a .wav file
 
@@ -75,7 +73,7 @@ https://github.com/user-attachments/assets/091821d0-745c-4fe8-9bf1-b915e47a6ad6
 
 *the left image is the decoded data sent over air*
 
-*the right image is the original image used as the source for transmisson over air*
+*the right image is the original image used as the source for transmisson over the air*
 
 
 
