@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/dffac2a9-d6d9-461d-9dd8-3979996f9415
-
 **required materials:**
 
 &#x20;• a software defined radio and its software (sdr++ in this case)
