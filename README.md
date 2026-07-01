@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/dffac2a9-d6d9-461d-9dd8-3979996f9415
+
 **required materials:**
 
 &#x20;• a software defined radio and its software (sdr++ in this case)
@@ -63,7 +67,10 @@ to a .wav file
 *Audacity*
 
 **Audio transmission file playback**
-![Alt text](AudioPlayBack.mp4)
+
+https://github.com/user-attachments/assets/091821d0-745c-4fe8-9bf1-b915e47a6ad6
+
+
 
 
 **Decoded data & side by side image comparsion**
