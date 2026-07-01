@@ -11,6 +11,11 @@
 ![Alt text](16MhzCarrierOnSDR.png)
 
 
+**Circuit schematic**
+
+![Alt text](16MhzCarrierOnSDR.png)
+
+
 
 
 **How to setup:**
