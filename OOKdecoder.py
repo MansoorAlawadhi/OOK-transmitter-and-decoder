@@ -11,7 +11,9 @@ image_size = 32*32
 preamble_size = 8
 postamble_size = 8
 total_samples_of_data = samples_per_bit*(image_size+preamble_size+postamble_size)
-threshold = 0.075#tune this value, this is the bit detection threshold which checks if the intensity is greater than or equal to threshold to append it as an on or off
+
+
+threshold = 0.075#tune this value, this is the bit detection threshold which checks if the intensity is greater than or equal to it to append it as an "on" bit otherwise it appends it as an "off"
 
 BinaryData = []
 Index = 0
