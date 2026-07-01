@@ -13,7 +13,7 @@
 
 **Circuit schematic**
 
-![Alt text](16MhzCarrierOnSDR.png)
+![Alt text](circuitSchematic.png)
 
 
 
