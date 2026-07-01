@@ -63,7 +63,7 @@ to a .wav file
 *Audacity*
 
 **Audio transmission file playback**
-![Alt text](AudioPlayBack.mp4)
+<video src="AudioPlayBack.mp4" width="100%" controls></video>
 
 
 **Decoded data & side by side image comparsion**
