@@ -54,7 +54,7 @@ to a .wav file
 
 &#x20;open the file in the desired audio editing program and align the left side crop to the exact start of the first preamble bit
 
-&#x20;when done cropping the audio file save it in the same directory as the OOKdecoder.py program, and to see your results adjust the threshold value to get a proper result
+&#x20;when done cropping the audio file save it in the "AudioData" directory, and in the program change the string location to "AudioData\
 
 
 
