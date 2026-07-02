@@ -37,13 +37,13 @@ once everything is setup you will have the binary image as a text file in the fo
 
 open the file and copy all of the data inside.
 
-Next open the .ino file in the folder directory "BinaryOutputToMcu" and delete the elements of the Binary data array if there is existing data to begin with.
+Next open the .ino file in the folder directory "BinaryOutputToMcu" and delete the elements of the "ByteArray" if there is existing data to begin with.
 
 once the array is empty copy all of the data from the binary image text file to the array once.
 
 next plug in your desired micro controller and upload the code then wire the digital write pin to the optocoupler anode(must use a current limiting resistor typically in the range of 220 ohms - 2k) and the micro controller ground hooked up to the optocoupler cathode.
 
-when all of these steps are done turn on the transmitter and Micro controller to begin transmitting data over the air and use your Software Defined Radio to log the data
+when all of these steps are done turn on the transmitter and Micro controller to begin transmitting data over the air and use your Software Defined Radio to record the data
 
 to a .wav file
 
