@@ -37,7 +37,7 @@ once everything is setup you will have the binary image as a text file in the fo
 
 open the file and copy all of the data inside.
 
-Next open the .ino file in the folder directory "BinaryOutputToMcu" and delete the elements of the Binary data array if there is existing data.
+Next open the .ino file in the folder directory "BinaryOutputToMcu" and delete the elements of the Binary data array if there is existing data to begin with.
 
 once the array is empty copy all of the data from the binary image text file to the array once.
 
