@@ -15,7 +15,6 @@
 **Circuit schematic**
 
 ![Alt text](circuitSchematic.png)
-*emitter follower stages amplify current while having a voltage gain of approximately 1*
 
 
 **How to setup:**
