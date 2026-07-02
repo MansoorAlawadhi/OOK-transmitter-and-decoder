@@ -49,8 +49,7 @@ int main() {
             ImageGrid.assign(ImageSize, vector<int>(ImageSize,0));
         }
 
-        //when done creating the image we output a file of the image data to be used in an MCU or similar that uses it in an array
-        //to be encoded for the data transmission
+        //image can only be written to a file once (might update it later so it can be written multiple times)
         if(IsKeyPressed(KEY_SPACE) && ImageWritten == false){
             ImageWritten == true;
             int index = 0;
