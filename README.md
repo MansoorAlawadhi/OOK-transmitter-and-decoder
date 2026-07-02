@@ -28,7 +28,7 @@
 
 &#x20;• pressing space writes data to a file, this can only be done once as to prevent additional data from being written to a single file
 
-&#x20;• on the Software Defined Radio software set the signal decoding to CW and set the tone frequency to the high value but less than or equal to half the audio sample rate(Nyquist-shannon sampling theorem), 1250Hz tone used in my setup
+&#x20;• on the Software Defined Radio software set the signal decoding to CW and set the tone frequency to the highest value but less than or equal to half the audio sample rate(Nyquist-shannon sampling theorem), 1250Hz tone used in my setup
 
 
 
