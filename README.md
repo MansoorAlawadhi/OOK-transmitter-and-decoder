@@ -24,7 +24,7 @@
 
 &#x20;• use right click to draw pixels and left click to delete pixels
 
-&#x20;• press space to write data to file(overwrites data to a pre existing file if it exists)
+&#x20;• press space to save the data to the file(overwrites data to a pre existing file if it exists)
 
 &#x20;• pressing space writes data to a file, this can only be done once as to prevent additional data from being written to a single file
 
