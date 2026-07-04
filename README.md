@@ -56,7 +56,7 @@ to a .wav file
 
 &#x20;when done cropping the audio file save it in the "AudioData" directory, and in the "OOKdecoder.py" program change the string location to "AudioData/YourFileName.wav"
 
-&#x20;Lastly, adjust the threshold value(if needed) until the resulting image looks correct
+&#x20;Lastly, adjust the threshold value if needed until the resulting image looks correct
 
 
 
